@@ -11,6 +11,10 @@ The full procedural methodology for the ITF is documented and registered with a 
 ## Repository Structure
 - `/scripts`: Contains the Python code used for titration calculations.
 - `/data`: Includes sample datasets and templates for institutional analysis.
+- ## Quick Start for Reviewers
+1. **Explore Methodology:** Read `docs/ITF_Framework_V3.pdf` to understand the theoretical titration model.
+2. **Review Data:** Inspect `data/raw/` for the input structure.
+3. **Reproduce Results:** Use the scripts in `scripts/` to process the sample data and verify the titration outcomes.
 
 ## License
 This project is licensed under the **MIT License**, promoting open science and collaborative transparency.
