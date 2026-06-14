@@ -1,0 +1,5 @@
+Time / Phase (t),Equivalence Point (Veq),Actual Value (Va),Purity Coefficient (P),Integrity Gap (ΔI),System Status (teq / E)
+13/06/2026,100,70,0.7,30,Warning: Entropy Increasing
+13/07/2026,100,85,0.85,15,Entropy Risk (Contaminated)
+13/08/2026,100,50,0.5,50,Entropy Risk (Contaminated)
+13/09/2026,100,90,0.9,10,Safe Zone (High Purity)
